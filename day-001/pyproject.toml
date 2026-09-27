@@ -1,0 +1,6 @@
+[project]
+name = "100-days-software-engineering-security"
+version = "0.1.0"
+description = "100-day journey from software engineering to security research"
+requires-python = ">=3.12"
+
