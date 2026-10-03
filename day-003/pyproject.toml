@@ -1,0 +1,6 @@
+[project]
+name = "python-learning"
+version = "0.1.0"
+description = "Practical Python learning exercises and notes"
+requires-python = ">=3.11"
+dependencies = []

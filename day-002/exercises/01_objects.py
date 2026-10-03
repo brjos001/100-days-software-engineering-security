@@ -1,58 +1,13 @@
-'''x = 42
-# x is referring to the number 42
-
-y = "hello"  
-# y is referring to the string hello
-
-z = []
-# z is referring to the list 
-
-print(type(x))
-print(type(y))
-print(type(z))
-
-print(id(x))
-print(id(y))'''
-
-'''x = 42
-y = 42
-
-print(x is y)
-print(x == y)'''
-
-'''x = []
-y = []
-
-print(x is y)
-print(x == y)'''
-
-'''x = []
-y = x
-
-x.append("hello")
-
-print(x)
-print(y)
-print(x is y)'''
-
-'''y = [1]
-y = x
-
-y = [2]
-
-print(x)
-print(y)
-print(x is y)'''
-
-'''x = [1]
+x = [1]
 y = x
 
 y.append(2)
 
-x = 3 
+x = [3]
 
 print(x)
-print(y)'''
+print(y)
+print(x is y)
 
 # Mutation
 # x.append(2)
